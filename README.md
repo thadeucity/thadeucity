@@ -12,7 +12,7 @@ I have a great passion working with Progressive Web Apps and challenging myself 
 
   - [ ] Socket.IO
   - [ ] Redux
-  - [ ] Next.js
+  - [x] Next.js
   
 ## 📫 How to reach me: 
    - [LinkedIn](https://linkedin.com/in/victoralvarenga)
