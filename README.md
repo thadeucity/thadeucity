@@ -12,6 +12,7 @@ I have a great passion working with Progressive Web Apps and challenging myself 
 
   - [ ] Socket.IO
   - [ ] Redux
+  - [ ] GraphQL
   - [x] Next.js
   
 ## 📫 How to reach me: 
