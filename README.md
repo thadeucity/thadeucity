@@ -10,9 +10,9 @@ I have a great passion working with Progressive Web Apps and challenging myself 
 
 ## 🌱 I’m currently learning 
 
-  - [ ] Socket.IO
+  - [x] Socket.IO
   - [ ] Redux
-  - [ ] GraphQL
+  - [x] GraphQL
   - [x] Next.js
   
 ## 📫 How to reach me: 
