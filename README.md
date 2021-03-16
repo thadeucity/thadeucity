@@ -10,10 +10,7 @@ I have a great passion working with Progressive Web Apps and challenging myself 
 
 ## 🌱 I’m currently learning 
 
-  - [x] Socket.IO
-  - [ ] Redux
-  - [x] GraphQL
-  - [x] Next.js
+  - [ ] Socket.IO
   
 ## 📫 How to reach me: 
    - [LinkedIn](https://linkedin.com/in/victoralvarenga)
