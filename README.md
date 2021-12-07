@@ -1,16 +1,16 @@
 <h2 align="center">Hi there! My name is Victor Alvarenga</h2>
 
 <p align="center">
-I'm a Junior Javascript Full-Stack Developer, with a 5 years background in Industrial Design.
+I'm a Typescript Frontend Developer, with a 5 years background in Industrial Design.
 <p>
 <p align="center">
-I have a great passion working with Progressive Web Apps and challenging myself to always learning something new, so when I'm not developing or building things you can find me learning new things across the web. Everything from new Frameworks to motorcycle mechanics.
+I have a great passion working with Progressive Web Apps and challenging myself to always learning something new, so when I'm not developing or building things you can find me learning new things across the web. Everything from package documentation to motorcycle mechanics.
 </p>
 <br/>
 
 ## 🌱 I’m currently learning 
 
-  - [ ] Socket.IO
+  - [ ] Firebase
   
 ## 📫 How to reach me: 
    - [LinkedIn](https://linkedin.com/in/victoralvarenga)
