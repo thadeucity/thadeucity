@@ -21,9 +21,6 @@ I have a great passion working with Progressive Web Apps and challenging myself 
 
 <p align="center">
 <a href="https://github.com/thadeucity/thadeucity">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thadeucity&show_icons=true&theme=dracula&line_height=33" />
-</a>
-<a href="https://github.com/thadeucity/thadeucity">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thadeucity&theme=dracula&hide=Java" />
 </a>
 </p>
